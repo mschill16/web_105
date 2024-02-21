@@ -1,5 +1,8 @@
 /* Global styling for the body element */
 body {
+    background-color: black;
+    color: ivory
+    font-size: large;
     /* Add styles here to affect the entire page */
 }
 
@@ -10,7 +13,7 @@ header {
     /* Sets the width to 80% of the parent container */
     margin: 20px auto;
     /* Centers the element horizontally and adds 20px margin to the top and bottom */
-    border: 3px solid gold;
+    border: 3px solid rgb(139, 175, 230);
     /* Sets a 3px solid gold border */
     background: rgba(0, 0, 0, .7);
     /* Sets a semi-transparent black background */
