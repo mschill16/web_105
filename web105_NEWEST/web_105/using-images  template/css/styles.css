@@ -56,7 +56,8 @@ h2 {
 }
 
 /* Placeholder for floating right, add your specific styles here */
-#float-right {
+#float-right img{
+    float: right;
     /* Add floating right-specific styles here */
 }
 
@@ -77,4 +78,5 @@ h2 {
 
 img{
     padding: 20px;
+    width: 50%;
 }
